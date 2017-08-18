@@ -1,6 +1,6 @@
 ToolGood.Words.Core
 ==================
-![](https://img.shields.io/nuget/v/ToolGood.Words.Core.svg)
+![https://www.nuget.org/packages/ToolGood.Words.Core/](https://img.shields.io/nuget/v/ToolGood.Words.Core.svg)
 
 说明：ToolGood.Words.Core是基于ToolGood.Words的.net standard 2.0实现的。
 
