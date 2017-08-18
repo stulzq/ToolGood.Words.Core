@@ -1,5 +1,6 @@
 ToolGood.Words.Core
-ToolGood.Words.Core是基于ToolGood.Words的.net standard 2.0实现的
+
+说明：ToolGood.Words.Core是基于ToolGood.Words的.net standard 2.0实现的
 ==================
 一款高性能非法词(敏感词)检测组件，附带繁体简体互换，支持全角半角互换，获取拼音首字母，获取拼音字母，拼音模糊搜索等功能。
 
