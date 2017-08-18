@@ -1,5 +1,6 @@
 ToolGood.Words.Core
 ==================
+![](https://img.shields.io/nuget/v/ToolGood.Words.Core.svg)
 说明：ToolGood.Words.Core是基于ToolGood.Words的.net standard 2.0实现的。
 
 原作者项目传送门：https://github.com/toolgood/ToolGood.Words
