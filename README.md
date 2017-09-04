@@ -1,8 +1,12 @@
 ToolGood.Words.Core
 ==================
+![https://www.nuget.org/packages/ToolGood.Words.Core/](https://img.shields.io/nuget/v/ToolGood.Words.Core.svg)
+
 说明：ToolGood.Words.Core是基于ToolGood.Words的.net standard 2.0实现的。
 
 原作者项目传送门：https://github.com/toolgood/ToolGood.Words
+
+![测试截图](测试截图.jpg)
 
 一款高性能非法词(敏感词)检测组件，附带繁体简体互换，支持全角半角互换，获取拼音首字母，获取拼音字母，拼音模糊搜索等功能。
 
