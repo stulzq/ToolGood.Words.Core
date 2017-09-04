@@ -9,6 +9,9 @@
     <PackageLicenseUrl>https://github.com/stulzq/ToolGood.Words.Core/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/stulzq/ToolGood.Words.Core</PackageProjectUrl>
     <PackageReleaseNotes>traditionalchinese, to-rmb, wordssearch, illegalwordssearch, pinyin, word-filter, stringsearch, simplifiedchinese</PackageReleaseNotes>
+    <AssemblyVersion>1.7.8.0</AssemblyVersion>
+    <FileVersion>1.7.8.0</FileVersion>
+    <Version>1.7.8</Version>
   </PropertyGroup>
 
 </Project>
