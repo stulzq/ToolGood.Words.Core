@@ -6,7 +6,7 @@ ToolGood.Words.Core
 
 原作者项目传送门：https://github.com/toolgood/ToolGood.Words
 
-image::测试截图.jpg
+!image::测试截图.jpg
 
 一款高性能非法词(敏感词)检测组件，附带繁体简体互换，支持全角半角互换，获取拼音首字母，获取拼音字母，拼音模糊搜索等功能。
 
