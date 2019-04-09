@@ -1,3 +1,10 @@
+## 提示
+
+本项目不再维护，请大家支持原项目。
+
+https://github.com/toolgood/ToolGood.Words
+
+
 ToolGood.Words.Core
 ==================
 ![https://www.nuget.org/packages/ToolGood.Words.Core/](https://img.shields.io/nuget/v/ToolGood.Words.Core.svg)
